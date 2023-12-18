@@ -1,0 +1,7 @@
+.form{
+    padding: 2rem;
+    background: lightgreen;
+    display: flex;
+    flex-direction: column;
+    max-width: 10rem;
+}
